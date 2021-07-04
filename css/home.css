@@ -134,7 +134,7 @@ main{
     border-radius: 5px;
     display: inline-block;
     margin-right: 50px;
-    color: #fff;
+    color: black;
     letter-spacing: 0;
     background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%);
     border: double2px transparent;
@@ -152,7 +152,7 @@ main{
     border-radius: 5px;
     display: inline-block;
     margin-right: 50px;
-    color: #fff;
+    color: black;
     letter-spacing: 0;
     background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%);
     border: double2px transparent;
