@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Ritwik880/Basic-Html-Portfolio/blob/main/image1.PNG?raw=false" width="100%">
+<img src="https://github.com/Ritwik880/Basic-Html-Portfolio/blob/main../image1.PNG?raw=false" width="100%">
 
 # NOTES KEEPER
 
